@@ -15,6 +15,8 @@ Project is updated to modern SDKs and dependencies but **do not update material 
 
 Note: the source code of this app was manually converted from Kotlin to Java 
 
+Updated to Gradle 8.12
+
 ---
 
 ## Pre-requisites
